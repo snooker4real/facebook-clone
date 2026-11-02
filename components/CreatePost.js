@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import {useSession} from "next-auth/react";
-import {HiOutlineVideoCamera} from "react-icons/all";
+import {HiOutlineVideoCamera} from "react-icons/hi";
 import {IoMdPhotos} from "react-icons/io";
 import {BsEmojiSmile} from "react-icons/bs";
 
